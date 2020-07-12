@@ -9,11 +9,11 @@ trained model weights-https://drive.google.com/file/d/18v9foGMnW-IN7GwpLnaLsMs79
 
 ## Prerequisites
 
-###scikit-learn
-###keras
-###numpy
-###pandas
-###matplotlib
+### scikit-learn
+### keras
+### numpy
+### pandas
+### matplotlib
 
 ## Dataset
 
