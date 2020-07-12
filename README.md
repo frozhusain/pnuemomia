@@ -7,7 +7,7 @@ trained model weights-https://drive.google.com/file/d/18v9foGMnW-IN7GwpLnaLsMs79
 trained model weights-https://drive.google.com/file/d/18v9foGMnW-IN7GwpLnaLsMs7958H6JL3/view?usp=sharing
 ```
 
-### Prerequisites
+## Prerequisites
 
 scikit-learn
 keras
