@@ -1,7 +1,7 @@
 # Pnuemomia detection using deep learning CNN
 
 This is a basic project in which we developed an algorithm to automatically identify whether a patient is suffering from pneumonia or not by looking at chest X-ray images. The algorithm had to be extremely accurate because lives of people is at stake.The model is trained on pre-trained VGG16 network with imagnet weights. 
-trained model weights-https://drive.google.com/file/d/18v9foGMnW-IN7GwpLnaLsMs7958H6JL3/view?usp=sharing
+
 
 ```
 trained model weights-https://drive.google.com/file/d/18v9foGMnW-IN7GwpLnaLsMs7958H6JL3/view?usp=sharing
